@@ -186,14 +186,16 @@ VEOS integrates several in-car applications to enhance the user experience.
 
 The VEOS Radio App provides seamless access to live FM radio stations, controlled directly from the infotainment screen. It is built with a custom hardware module based on the TEA5767 FM tuner chip and integrates tightly with the Android framework.
 
-![VEOS Radio App](https://private-us-east-1.manuscdn.com/sessionFile/B8B5ILTkfCmGIS6LrtB5Q4/sandbox/W5Q3RrpxXo2kZKyyTLMeiY-images_1758388030318_na1fn_L2hvbWUvdWJ1bnR1L1JFQURNRV9pbWFnZXMvcmFkaW9fYXBw.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQjhCNUlMVGtmQ21HSVM2THJ0QjVRNC9zYW5kYm94L1c1UTNScnB4WG8ya1pLeXlUTE1laVktaW1hZ2VzXzE3NTgzODgwMzAzMThfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwxSkZRVVJOUlY5cGJXRm5aWE12Y21Ga2FXOWZZWEJ3LndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=dqJ2BhBW29jkxn6Jt4X5qKUeiqlkda~1vJZecJA21hnRbMzEMGZlfjXJtxHRoCsvhum-ySuRTav8WGCdnJUOBPD63AGWqdb5DujOfvfJUukJayWb~9t-uOMXgofzXEFxr1odk63SL9Wwz~SP5qXUJBN-Sm8TvAZ8WK0KjdlDuNYXrQVQc7yeBapRd3cdRO8PF1nMgoycwY0CmwT1wJIhfYaqajxRzTXCT53qPjsTvxaU068C3W8~g6jdyreshLL865tJDav-tVbx86dsAz2-rn7TPQlLV9DDdUKZvFml870VjA9lTrulT2jBW1xC4yF1WHyyvirtG~iesdbhD-jrmA__)
+## VEOS Radio App
+https://github.com/user-attachments/assets/7a29d9b4-a518-4e0d-b426-d94f3bdbbaf6
+
 *Figure: VEOS Radio App interface on the infotainment screen.*
 
 #### Camera App
 
 The Camera App allows drivers to view live feeds from front and rear cameras, dynamically switching based on the vehicle's gear status. This feature enhances safety by providing clear visibility around the car.
 
-![VEOS Camera App](https://private-us-east-1.manuscdn.com/sessionFile/B8B5ILTkfCmGIS6LrtB5Q4/sandbox/W5Q3RrpxXo2kZKyyTLMeiY-images_1758388030319_na1fn_L2hvbWUvdWJ1bnR1L1JFQURNRV9pbWFnZXMvY2FtZXJhX2FwcA.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQjhCNUlMVGtmQ21HSVM2THJ0QjVRNC9zYW5kYm94L1c1UTNScnB4WG8ya1pLeXlUTE1laVktaW1hZ2VzXzE3NTgzODgwMzAzMTlfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwxSkZRVVJOUlY5cGJXRm5aWE12WTJGdFpYSmhYMkZ3Y0Eud2VicCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=EFmojld7t2uYJ1rNtt99JZS9kKSW7V3TaQk4DQmADqSTrtxWKsO051RsuGPTl7SMoVJM3~kqlQtCkSLBsOioEqcFUdQKiRZhcWBHJM79-TjFH63BUZ9XvzzEl6CHQMY9fc-RDhbeYHalziDr~Gq3xxa~lNqW-NY1JF~~AUi1U9k4h28WSTR7y1Ca6Dqlo5EIgeLco6JLUFy6yfDVHQ8VtV5KnoisP7DiDR83uKQg6kstc0PxqDWDjIJouFBbxagSR7CHHnBiKWU5IUsPk3ovIuKEq9uURjz9TJVLvVHy29dJCCQ83Y1nULVVFk0BOpxWUswi0zgXyBWhUWI2OI5ZSg__)
+![Image](https://github.com/user-attachments/assets/78dd6916-338c-47e0-a650-c46b421f99d6)
 *Figure: VEOS Camera App displaying a live feed.*
 
 ### Car Side (Bare-metal) Visuals
