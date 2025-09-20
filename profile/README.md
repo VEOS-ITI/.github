@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 *   Aliaa Ahmed Mortada Abd Alfatah
 *   Yara Abdelraheem Omran Abdelraheem
 
-Project Link: [https://github.com/VEOS-ITI](https://github.com/VEOS)
+Project Link: [https://github.com/VEOS-ITI](https://github.com/VEOS-ITI)
 
 
 ### System Architecture Diagrams
