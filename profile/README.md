@@ -203,7 +203,14 @@ The bare-metal car control system is responsible for executing driver commands a
 ![Logitech Control](../assets/Logitech.mp4)
 *Figure: Logitech steering wheel setup for vehicle control.*
 
-![Car Bare Metal](../assets/CarSetup.mp4)
+## 🏎️ Car Bare Metal Setup
+
+<video src="../assets/CarSetup_small.mp4" controls width="700">
+  Your browser does not support the video tag — click
+  <a href="../assets/CarSetup_small.mp4">here</a> to download.
+</video>
+
 *Figure: Physical setup of the car's bare-metal control system.*
+
 
 
