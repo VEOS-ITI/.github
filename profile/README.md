@@ -200,15 +200,16 @@ The Camera App allows drivers to view live feeds from front and rear cameras, dy
 
 The bare-metal car control system is responsible for executing driver commands and managing vehicle movement. It interfaces with input devices like the Logitech steering wheel.
 
-![Logitech Control](../assets/Logitech.mp4)
+
+##  Logitech Control
+https://github.com/user-attachments/assets/15caf7ca-49b6-41fc-b116-9ffde4a128e3
+
+
 *Figure: Logitech steering wheel setup for vehicle control.*
 
-## 🏎️ Car Bare Metal Setup
+##  Car Bare Metal Setup
 
-<video src="../assets/CarSetup_small.mp4" controls width="700">
-  Your browser does not support the video tag — click
-  <a href="../assets/CarSetup_small.mp4">here</a> to download.
-</video>
+https://github.com/user-attachments/assets/67ab1e1d-5c3d-4be0-8463-97cc34e3271f
 
 *Figure: Physical setup of the car's bare-metal control system.*
 
