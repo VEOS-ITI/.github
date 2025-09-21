@@ -22,7 +22,7 @@ The VEOS Mobile App offers comprehensive remote access capabilities, allowing us
 
 Security is a cornerstone of the VEOS design. The system integrates several robust mechanisms to ensure a secure and reliable driving experience:
 
-*   **RSA-248 Encryption**: Provides secure authentication and prevents tampering with transmitted data across the network, particularly when receiving values from the Logitech system on the AOSP side.
+*   **RSA-2048 Encryption**: Provides secure authentication and prevents tampering with transmitted data across the network, particularly when receiving values from the Logitech system on the AOSP side.
 *   **Checksum Validation**: Every command packet includes a checksum, which is verified upon reception. Packets with mismatched checksums are discarded, preventing corrupted or malicious data from affecting the vehicle's operation.
 *   **Fixed IP Addressing**: Each subsystem is assigned a static IP address, ensuring that only known and authorized devices can connect to the network.
 *   **Isolated Network Design**: Only whitelisted devices are permitted on the dedicated network, significantly reducing the risk of external intrusions.
